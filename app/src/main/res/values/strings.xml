@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleLogin</string>
+    <string name="st_mvvm">MVVM</string>
+    <string name="st_mvi">MVI</string>
+</resources>
